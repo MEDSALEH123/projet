@@ -1,0 +1,28 @@
+.sign{
+    display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+body{
+    background-color: #000000;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 10%;
+    
+}
+.sign label{
+   font-size: 60px;
+}
+body .titre{
+    display: flex;
+    justify-content: center;
+}
+button{
+    padding: 12px 12px;
+     background-color: yellow;
+     color: black;
+     font-size: 15px;
+     border: 0ch;
+     border-radius:5%;
+ }

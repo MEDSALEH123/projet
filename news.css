@@ -1,0 +1,41 @@
+h1{
+    color: yellow;
+}
+.titre{
+    display: flex;
+    justify-content: space-between;
+}
+.titre a{
+    padding: 20px;
+    color: bisque;
+    font-style: oblique;
+    font-size: larger;
+}
+body{
+    background-color: #000000;
+}
+
+p{
+    color: bisque;
+}
+img{
+    width: 600px;
+}
+.news{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+p:hover{
+    color: yellow;
+}
+.left{
+    color: bisque;
+    font-size: larger;
+}
+.all{
+    display: flex;
+   
+}

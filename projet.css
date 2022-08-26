@@ -1,0 +1,203 @@
+body{
+    background-color: #242722;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    color: yellow;
+}
+.navbar div{
+  
+}
+button{
+    background-color: yellow;
+    width:75px;
+    height: 50px;
+}
+h3{
+    padding-right: 10px;
+    color: white;
+}
+.LEAGUES{
+    display: flex;
+    padding: 3vw 0;
+}
+.LEAGUES img{
+    width: 25%;
+}
+.menu{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(25, 25, 25) ;
+    border-radius: 2%;
+}
+.menu span{
+    color: yellow;
+    font-size: 30px;
+}
+.menu .coupe p:hover{
+    color: yellow;
+}
+.coupe{
+    color: bisque;  
+}
+.m{
+    display: flex;
+    gap: 10px;
+    padding: 30px;
+}
+.pub{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(25, 25, 25);
+    padding: 15px;
+    border-radius: 2%;
+}
+
+.carousel-item{
+    width: 900px;
+    height: 470px;
+    background-color:rgb(25, 25, 25) ;
+    padding: 15px;
+    border-radius: 2%;
+    
+}
+.pub img{
+    width: 245px;
+}
+.tab img{
+    width: 90%;
+}
+.tab{
+    padding: 3vw 0;
+    display: flex;
+    justify-content: center;
+    
+}
+.one{
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.two{
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.three{
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.four{
+    color: white;
+}
+.four i{
+    width: 80px;
+}
+.footer{
+    background-color:#000000;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.footer p{
+    color: bisque;
+
+}
+.footer p:hover{
+    color: yellow;
+}
+h2{
+    color: yellow;
+}
+i{
+    font-size: 300%;
+}
+.BLOCK1{
+    display: flex;
+    align-items: center;
+    gap: 1vw;
+}
+.BLOCK1 a{
+    color: bisque;
+    font-size: larger;
+    font-style: oblique;
+}
+
+.rech input{
+  background-color: transparent;
+  border: 0;
+
+  height: fit-content;
+  
+}
+.rech{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    height: fit-content;
+    padding: 5px 5px;
+    border-radius: 25px;
+    background-color: #000000;
+    gap: 2px;
+}
+.rech i{
+    font-size: 15px ;
+    padding: 6px ;
+    background-color: yellow;
+    border-radius: 25px;
+}
+.Sign{
+    
+  
+  
+}
+.modal-content{
+    background-color: #0d0e0d;
+    color: white;
+}
+.loginform{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+   
+}
+.loginform div{
+    display: flex;
+    flex-direction: column;
+
+
+}
+.loginform input{
+    padding: 5px 0;
+    padding: 5px 5px;
+    border: 0;
+    background-color: #000000;
+}
+.agree{
+    display: flex;
+    align-content: center;
+    padding: 5px 0;
+}
+.agree p{
+    margin: 0;
+}
+.butt button{
+   
+    width: 220px;
+}
+.butt{
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+}
+.carousel img{
+    width: 100% !important;
+    height:  100% !important;
+
+}
